@@ -1,0 +1,2 @@
+﻿<a href="http://www.vekscon.ru"><img src="img/logo.png" alt="Векскон" border="0" /></a><br /><span class="cons">КОНСТРУКТОР ВАШЕГО БИЗНЕСА</span><br /><br />
+<span class="phone"><a href="tel:+74959297042">+7(495) 929-70-42</a><br /><a href="tel:88005551154">8 (800) 555-11-54</a></span><br /><span class="mail"><a href="mailto:">info@vekscon.ru</a></span>
